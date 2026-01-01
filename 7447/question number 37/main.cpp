@@ -1,4 +1,5 @@
 // Pin definitions
+#include <Arduino.h>
 const int A_pin = 2;
 const int B_pin = 3;
 const int C_pin = 4;
